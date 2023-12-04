@@ -17,9 +17,9 @@ May 2023
 
 # App Store 
 
-  TimeMasters Puzzle - puzzle game with time limit 
+  "TimeMasters Puzzle" - puzzle game with time limit 
 
-  Tasks-Hub - simple ToDo list with local reminder - easy to set directory with multiple tasks   
+  "Tasks-Hub" - simple ToDo list with local reminder - easy to set directory with multiple tasks   
   
 # iOS Projects
 
