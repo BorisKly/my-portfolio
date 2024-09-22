@@ -2,24 +2,35 @@
 
 # iOS developer experience
 
+PegaPoll
+March 2024 – present
+- custom UI elements development (React: custom
+components, Swift: custom views)
+- integration with APIs for data fetching and handling
+asynchronous operations
+
+Freelance, Kyiv
+October 2023 – February 2024
+
 Innovate Tech Group
-July – September 2023 
-•	developer in small team (2 Devs, 1 QA, 1 SM+TL)
-•	tickets estimation 
-•	develop accordingly to MVVM+R architecture
-•	work with camera, Realm
+July – September 2023
+- developer in small team (2 Devs, 1 QA, 1 SM+TL)
+- develop accordingly to MVVM+R architecture
 
 Next Level Apps
 May 2023
-•	task estimations
-•	storyboards, autolayouts
-•	notifications
+- task estimations, storyboards, autolayouts, notifications
 
 # App Store 
 
   "TimeMasters Puzzle" - puzzle game with time limit 
+ 
+  [Download TimeMasters on the App Store](https://apps.apple.com/app/id6468649101)
 
   "Tasks-Hub" - simple ToDo list with local reminder - easy to set directory with multiple tasks   
+  
+  [Download Tasks-Hub on the App Store](https://apps.apple.com/app/id6472189527)
+
   
 # iOS Projects
 
@@ -36,13 +47,11 @@ MVC + Coordinator Architecture
 
 # Work experience
 
-Freelance, Kyiv
-August 2022 – April 2023
 Self-Employed, Wholesale, Kyiv
 August 2012 – present
-•	Finding and support relationships with customers
-•	Sales analytics 
-•	Maintaining documentation in 1C
+-	Finding and support relationships with customers
+-	Sales analytics 
+-	Maintaining documentation in 1C
 
 
 Kyiv Polytechnic Institute, Assistant of the Department 
